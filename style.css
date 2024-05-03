@@ -26,4 +26,10 @@ grid-template-columns: 50% 50%;
  padding: 1em;
  color: var(--branco-principal);
  display: block;
+
+}
+.botao__segundario{
+background-color: transparent;
+border: 2px solid var(--branco-principal);
+
 }
